@@ -1,0 +1,19 @@
+{
+  "main_menu": "=== Main Menu ===",
+  "encrypt_option": "1. Encrypt",
+  "decrypt_option": "2. Decrypt",
+  "exit_option": "3. Exit",
+  "choose_option": "Select option: ",
+  "enter_text": "Enter text: ",
+  "enter_key": "Enter key: ",
+  "choose_cipher": "Choose cipher (caesar/xor): ",
+  "result": "Result: ",
+  "error": "Error: ",
+  "invalid_choice": "Invalid choice",
+  "invalid_cipher": "Invalid cipher type",
+  "language_set": "Language set to English",
+  "language_selection": "Language Selection",
+  "select_language": "Select language: ",
+  "invalid_input": "Invalid input, please try again",
+  "action_completed": "Action completed successfully"
+}

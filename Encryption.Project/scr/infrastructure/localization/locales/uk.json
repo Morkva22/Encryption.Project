@@ -1,0 +1,19 @@
+{
+  "main_menu": "=== Головне меню ===",
+  "encrypt_option": "1. Шифрування",
+  "decrypt_option": "2. Дешифрування",
+  "exit_option": "3. Вихід",
+  "choose_option": "Оберіть опцію: ",
+  "enter_text": "Введіть текст: ",
+  "enter_key": "Введіть ключ: ",
+  "choose_cipher": "Оберіть шифр (caesar/xor): ",
+  "result": "Результат: ",
+  "error": "Помилка: ",
+  "invalid_choice": "Невірний вибір",
+  "invalid_cipher": "Невірний тип шифру",
+  "language_set": "Мову встановлено на українську",
+  "language_selection": "Вибір мови",
+  "select_language": "Оберіть мову: ",
+  "invalid_input": "Невірне введення, спробуйте ще раз",
+  "action_completed": "Дію успішно виконано"
+}

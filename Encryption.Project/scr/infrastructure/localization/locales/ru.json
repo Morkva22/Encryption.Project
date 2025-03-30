@@ -1,0 +1,19 @@
+{
+  "main_menu": "=== Главное меню ===",
+  "encrypt_option": "1. Шифрование",
+  "decrypt_option": "2. Дешифрование",
+  "exit_option": "3. Выход",
+  "choose_option": "Выберите опцию: ",
+  "enter_text": "Введите текст: ",
+  "enter_key": "Введите ключ: ",
+  "choose_cipher": "Выберите шифр (caesar/xor): ",
+  "result": "Результат: ",
+  "error": "Ошибка: ",
+  "invalid_choice": "Неверный выбор",
+  "invalid_cipher": "Неверный тип шифра",
+  "language_set": "Язык изменен на русский",
+  "language_selection": "Выбор языка",
+  "select_language": "Выберите язык: ",
+  "invalid_input": "Неверный ввод, попробуйте снова",
+  "action_completed": "Действие успешно выполнено"
+}
